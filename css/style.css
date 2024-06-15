@@ -1,0 +1,15 @@
+h3:first-child {
+    color:pink;
+}
+p[id="greycol"]{
+    color:grey;
+}
+div:nth-child(5) > p{
+    color:red;
+}
+p:nth-child(7){
+    color:green;
+}
+.yellow{
+    color:yellow;
+}
