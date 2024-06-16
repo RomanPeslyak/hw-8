@@ -25,9 +25,6 @@ h2:hover[id="gcol"]{
 h2:nth-child(5){
     color:purple;
 }
-h2:nth-child(6){
-    color:rgb(255, 0, 119);
-}
 h2:nth-child(7){
     color:rgb(126, 128, 0);
 }
